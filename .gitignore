@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# vim files
+*.swp
+
+# binaries
+github-activity
